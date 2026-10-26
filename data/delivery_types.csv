@@ -1,0 +1,7 @@
+service_type,delivery_zone,target_days_min,target_days_max
+Standard,Local,0,2
+Standard,Regional,2,4
+Standard,Extended,4,6
+Priority,Local,0,1
+Priority,Regional,1,2
+Priority,Extended,2,3

@@ -1,0 +1,11 @@
+customer_id,customer_name,industry,service_region
+1001,Northstar Medical,Healthcare,Regional
+1002,Urban Office Supply,Office,Local
+1003,BluePeak Retail,Retail,Regional
+1004,Metro Foods,Food,Local
+1005,Evergreen Labs,Healthcare,Extended
+1006,Summit Hardware,Industrial,Regional
+1007,CityStyle Apparel,Retail,Local
+1008,Precision Parts,Industrial,Extended
+1009,Harbor Hospitality,Hospitality,Regional
+1010,BrightLine Electronics,Technology,Extended

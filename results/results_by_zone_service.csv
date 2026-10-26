@@ -1,0 +1,5 @@
+delivery_zone,service_type,Within target,Outside target,Cannot evaluate,evaluated_orders,outside_target_pct
+Extended,Priority,5,1,0,6,16.666666666666664
+Local,Standard,5,0,1,5,0.0
+Regional,Priority,2,0,0,2,0.0
+Regional,Standard,7,0,1,7,0.0

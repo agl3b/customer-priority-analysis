@@ -1,0 +1,23 @@
+order_id,order_date,delivery_date,delivery_days,target_days_max,service_type,delivery_zone,delivery_result
+50001,2026-09-01,2026-09-03,2.0,4,Standard,Regional,Within target
+50002,2026-09-08,2026-09-09,1.0,2,Priority,Regional,Within target
+50003,2026-09-17,2026-09-21,4.0,4,Standard,Regional,Within target
+50004,2026-09-02,2026-09-02,0.0,2,Standard,Local,Within target
+50005,2026-09-14,2026-09-15,1.0,2,Standard,Local,Within target
+50006,2026-09-03,2026-09-05,2.0,4,Standard,Regional,Within target
+50007,2026-09-11,2026-09-12,1.0,2,Priority,Regional,Within target
+50008,2026-09-24,,,4,Standard,Regional,Cannot evaluate
+50009,2026-09-04,2026-09-04,0.0,2,Standard,Local,Within target
+50010,2026-09-18,2026-09-18,0.0,2,Standard,Local,Within target
+50011,2026-09-05,2026-09-08,3.0,3,Priority,Extended,Within target
+50012,2026-09-19,2026-09-24,5.0,3,Priority,Extended,Outside target
+50013,2026-09-06,2026-09-08,2.0,4,Standard,Regional,Within target
+50014,2026-09-20,2026-09-22,2.0,4,Standard,Regional,Within target
+50015,2026-09-07,2026-09-07,0.0,2,Standard,Local,Within target
+50016,2026-09-16,,,2,Standard,Local,Cannot evaluate
+50017,2026-09-09,2026-09-12,3.0,3,Priority,Extended,Within target
+50018,2026-09-23,2026-09-26,3.0,3,Priority,Extended,Within target
+50019,2026-09-10,2026-09-12,2.0,4,Standard,Regional,Within target
+50020,2026-09-25,2026-09-29,4.0,4,Standard,Regional,Within target
+50021,2026-09-12,2026-09-15,3.0,3,Priority,Extended,Within target
+50022,2026-09-27,2026-09-30,3.0,3,Priority,Extended,Within target
