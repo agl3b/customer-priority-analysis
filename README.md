@@ -16,7 +16,8 @@ The objective is to evaluate delivery performance against established policies, 
 ## Tools
 
 * Python
-* pandas
+* Pandas
+* Matplotlib
 * SQL
 * SQLite
 
@@ -75,7 +76,8 @@ The dataset contains only 22 orders, so the findings should not automatically be
 Requirements
 
 * Python
-* pandas
+* Pandas
+* Matplolit
 * SQL
 * SQLite
 
